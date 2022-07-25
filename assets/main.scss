@@ -1,0 +1,276 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "syntax-highlighting";
+@import "bootstrap-4-jekyll/bootstrap-4-jekyll";
+@import "bootstrap_customization";
+
+  /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+a:link {
+    color:#145561;
+    text-decoration: underline;
+}
+
+a:visited {
+    color:#145561;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #145561;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #145561;
+    text-decoration: underline;
+}
+
+
+.bg-cover-large {
+    background-size: cover !important;
+    height: 400px;
+    width: 100%;
+    font-family: Georgia, serif;
+}
+
+.navbar-contact {
+    background-color: white;
+    color: #0f3249;
+    height: 50px;
+    font-family: Georgia, serif;
+}
+
+.navbar-menu {
+    background-color: #0f3249;
+    min-height: 2px;
+    font-family: Georgia, serif;
+    font-size: 17px;
+    padding: 0
+}
+
+.navbar-menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-menu {
+    background-color: #0f3249;
+}
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+
+.navbar-nav > li{
+    padding-left:5px;
+    padding-right:5px;
+}
+
+  .navbar .navbar-nav .nav-link:hover {
+    color: #5ca0ac;
+  }
+
+.container-img {
+    position: relative;
+    text-align: center;
+    color: #0f3249;
+    font-size: 200%;
+}
+
+.centered-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+h3 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: left;
+} 
+h4 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+/* For Mobile */
+@media screen and (max-width: 540px) {
+
+    .bg-cover {
+        background-size: cover !important;
+        height: 200px;
+        width: 100%;
+        font-family: Georgia, serif;
+    }
+
+    .container {
+        margin: 0px;
+        padding: 0px;
+        max-width: 100%;
+        font-family: Georgia, serif;
+    }
+    
+    .container-article {
+        margin-top: 20px;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 16px;
+        line-height: 150%;
+        text-align: justify;
+    }
+
+    #main-img{      
+        content:url("/assets/ocean-small.jpg");
+    }      
+}
+
+/* For Tablets */
+@media screen and (min-width: 540px) and (max-width: 780px) {
+    
+    .bg-cover {
+        background-size: cover !important;
+        height: 200px;
+        width: 100%;
+        font-family: Georgia, serif;
+    }      
+    
+    .container {
+        margin: 0px;
+        padding: 0px;
+        max-width: 100%;
+        font-family: Georgia, serif;
+    }
+    
+    .container-article {
+        margin-top: 20px;
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        line-height: 150%;
+        text-align: justify;
+    }
+
+    #main-img{      
+        content:url("/assets/ocean-wide.jpg");
+    }     
+}
+
+/* For PC */
+@media all and (min-width: 781px) {
+     
+    .bg-cover {
+        background-size: cover !important;
+        height: 400px;
+        width: 100%;
+        font-family: Georgia, serif;
+    }   
+    
+    
+    .container {
+        margin: 0px;
+        padding: 0px;
+        max-width: 100%;
+        font-family: Georgia, serif;
+    }
+    
+    .container-article {
+        margin-top: 50px;
+        margin-left: 20%;
+        margin-right: 20%;
+        font-size: 18px;
+        line-height: 200%;
+        text-align: justify;
+    }
+
+    .container-article a {
+        font-weight: bold;
+    }
+
+    .container-article p {
+        margin-top: 2em;
+        margin-bottom: 1em;
+        br {
+            content: "";
+            margin: 1em;
+            display: block;
+            font-size: 12%;
+        }              
+    }   
+
+    br {
+        content: "";
+        margin: 4em;
+        display: block;
+        font-size: 24%;
+      }
+
+      h3 {
+        margin-top: 2em;
+        margin-bottom: 1em;
+      } 
+      h4 {
+        margin-top: 2em;
+        margin-bottom: 1em;
+      }
+      
+    #main-img{      
+        content:url("/assets/ocean-wide.jpg");
+    } 
+}
+
+#parcours-img{      
+    content:url("/assets/parcours.jpg");
+}         
+#enfantouadolescent-img{      
+    content:url("/assets/enfantetado.jpg");
+}     
+#parentalite-img{      
+    content:url("/assets/parentalite.jpg");
+}
+#icv-img{      
+    content:url("/assets/icv.jpg");
+}
+#psychotherapie-img{      
+    content:url("/assets/psychotherapie.jpg");
+}
+#mbsr-img{      
+    content:url("/assets/mbsr.jpg");
+}  
+#act-img{      
+    content:url("/assets/act.jpg");
+}   
+#interculturelle-img{      
+    content:url("/assets/interculturelle.jpg");
+}  
+#ateliers-img{      
+    content:url("/assets/ateliers.jpg");
+}  
