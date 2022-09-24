@@ -23,7 +23,7 @@ layout: page
   <b>Coordonnées:</b>
 </p>
 <p>
-  <i class="fas fa-envelope me-3"></i> 2 Av. de la Butte aux Cailles, 64600 Anglet<br>
+  <i class="fas fa-envelope me-3"></i> <a href="https://goo.gl/maps/aZJ84ji8Wbe46cBb8">2 Av. de la Butte aux Cailles, 64600 Anglet</a><br>
   <i class="fas fa-phone me-3"></i> <a href="tel:0782100783">07 82 10 07 83</a><br>
   <i class="fas fa-at me-3"></i> <a href="mailto:nadia.pinard@yahoo.fr">nadia.pinard@yahoo.fr</a>
 </p>
