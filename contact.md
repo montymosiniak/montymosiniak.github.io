@@ -20,7 +20,7 @@ layout: page
   Les consultations psychologiques n’étant pas prises en charge par la sécurité sociale, certaines mutuelles remboursent à leurs adhérents un nombre de séances. Renseignez-vous auprès de votre mutuelle afin de connaître vos droits.
 </p> 
 <p>
-  <b>Coordonées:</b>
+  <b>Coordonnées:</b>
 </p>
 <p>
   <i class="fas fa-envelope me-3"></i> 2 Av. de la Butte aux Cailles, 64600 Anglet<br>
