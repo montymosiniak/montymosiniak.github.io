@@ -5,7 +5,6 @@ layout: page
   <img class="image" id="main-img" src="" />
 </div>
 <div  class="container-article">
-<a href="https://www.doctolib.fr/psychologue/anglet/nadia-pinard-le-bouscat" style="display:block;text-align:center;background-color:#0f3249;color:#ffffff;font-size:14px;overflow:hidden;width:257px;height:40px;border-bottom-right-radius:none;border-bottom-left-radius:none;position:fixed;bottom:0;right:5px;z-index:1000;border-top-left-radius:4px;border-top-right-radius:4px;line-height:40px" target="_blank" data-reactroot=""><span style="font-size:13px">Prendre rendez-vous en ligne</span><img style="height:15px;margin-bottom:3px;vertical-align:middle;width:auto" src="https://www.doctolib.fr/psychologue/anglet/nadia-pinard-le-bouscat" alt="Doctolib"/></a>
 <div> 
   <h3 style="color:black;text-align: left">Le cabinet</h3>
   <br />

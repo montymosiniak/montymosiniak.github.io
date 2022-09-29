@@ -11,8 +11,6 @@ layout: page
   <img class="image" id="main-img" src="" />
 </div>
 <div  class="container-article">
-<a href="https://www.doctolib.fr/psychologue/anglet/nadia-pinard-le-bouscat" style="display:block;text-align:center;background-color:#0f3249;color:#ffffff;font-size:14px;overflow:hidden;width:257px;height:40px;border-bottom-right-radius:none;border-bottom-left-radius:none;position:fixed;bottom:0;right:5px;z-index:1000;border-top-left-radius:4px;border-top-right-radius:4px;line-height:40px" target="_blank" data-reactroot="">Prendre rendez-vous en ligne</a>
-<p>
 Je suis psychologue clinicienne, diplômée depuis 2010 à Bordeaux du master 2 de Psychologie du développement de l’enfant et de l’adolescent, spécialisation psychologie clinique et psychopathologie.<br />
 Je reçois enfants, adolescents, adultes au sein de mon cabinet, pour différentes formes d’accompagnement en fonction de vos besoins.
 </p>
