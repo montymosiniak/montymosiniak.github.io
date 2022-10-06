@@ -11,6 +11,7 @@ layout: page
   <img class="image" id="main-img" src="" />
 </div>
 <div  class="container-article">
+<p>
 Je suis psychologue clinicienne, diplômée depuis 2010 à Bordeaux du master 2 de Psychologie du développement de l’enfant et de l’adolescent, spécialisation psychologie clinique et psychopathologie.<br />
 Je reçois enfants, adolescents, adultes au sein de mon cabinet, pour différentes formes d’accompagnement en fonction de vos besoins.
 </p>
