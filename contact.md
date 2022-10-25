@@ -23,6 +23,9 @@ layout: page
   Les consultations psychologiques n’étant pas prises en charge par la sécurité sociale, certaines mutuelles remboursent à leurs adhérents un nombre de séances. Renseignez-vous auprès de votre mutuelle afin de connaître vos droits.
 </p>
 <p>
+  En cas d'empêchement, la séance doit être annulée 24h à l'avance. Merci de votre compréhension.
+</p>
+<p>
   <b>Coordonnées:</b>
 </p>
 <p>
