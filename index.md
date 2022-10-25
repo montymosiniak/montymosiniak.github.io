@@ -27,7 +27,7 @@ Différentes modalités de suivis sont possibles:
   <li><span style="color:#145561;font-weight: bold;">Consultations proposant un suivi ponctuel et ciblé</span></li>
 </ul>
 <p>
-Ma pratique est issue du courant psychanalytique, et s’alimente d’autres approches et formations :
+Ma pratique est issue du courant analytique, et s’alimente d’autres approches et formations :
 </p>
 <ul>
   <li><a href="/mbsr">Méditation de pleine conscience</a>, Formée au programme MBSR de mindfulness, spécialisation enfant-adolescents</li>
