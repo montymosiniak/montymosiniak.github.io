@@ -17,8 +17,12 @@ layout: page
   <li>Séances thérapie ICV. 70 euros – 1h ou 1h30</li>
 </ul>
 <p>
+  Possibilité de consultation en visio.
+</p>
+<p>
   Les consultations psychologiques n’étant pas prises en charge par la sécurité sociale, certaines mutuelles remboursent à leurs adhérents un nombre de séances. Renseignez-vous auprès de votre mutuelle afin de connaître vos droits.
-</p><p>
+</p>
+<p>
   <b>Coordonnées:</b>
 </p>
 <p>
