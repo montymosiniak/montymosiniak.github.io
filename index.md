@@ -19,19 +19,19 @@ Je reçois enfants, adolescents, adultes au sein de mon cabinet, pour différent
 Différentes modalités de suivis sont possibles:
 </p>
 <ul>
-  <li><a href="/enfantouadolescent">Thérapies enfants et adolescents</a></li>
+  <li><a href="/icv">Thérapie ICV, <i>Intégration du Cycle de la Vie</i> <i class="fa-solid fa-square-up-right"></i></a></li>
+  <li><a href="/enfantouadolescent">Thérapies enfants et adolescents <i class="fa-solid fa-square-up-right"></i></a></li>
   <li><span style="color:#145561;font-weight: bold;">Thérapies adultes</span></li>
-  <li><a href="/parentalite">Accompagnement à la parentalité</a></li>
-  <li><a href="/psychotherapie">Thérapie d’orientation psychanalytique</a></li>
-  <li><a href="/icv">Thérapie ICV, <i>Intégration du Cycle de la Vie</i></a></li>
+  <li><a href="/parentalite">Accompagnement à la parentalité <i class="fa-solid fa-square-up-right"></i></a></li>
+  <li><a href="/psychotherapie">Thérapie d’orientation analytique <i class="fa-solid fa-square-up-right"></i></a></li>
   <li><span style="color:#145561;font-weight: bold;">Consultations proposant un suivi ponctuel et ciblé</span></li>
 </ul>
 <p>
 Ma pratique est issue du courant analytique, et s’alimente d’autres approches et formations :
 </p>
 <ul>
-  <li><a href="/mbsr">Méditation de pleine conscience</a>, Formée au programme MBSR de mindfulness, spécialisation enfant-adolescents</li>
-  <li><a href="/act">Thérapie d’Acceptation et d’Engagement</a>, Formée à la thérapie ACT</li>
+  <li><a href="/mbsr">Méditation de pleine conscience <i class="fa-solid fa-square-up-right"></i></a>, Formée au programme MBSR de mindfulness, spécialisation enfant-adolescents</li>
+  <li><a href="/act">Thérapie d’Acceptation et d’Engagement <i class="fa-solid fa-square-up-right"></i></a>, Formée à la thérapie ACT</li>
 </ul>
 <p>
 Elle s’inscrit dans un <b>cadre contenant et rassurant</b>, en face à face, en favorisant <b>participation et

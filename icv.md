@@ -60,7 +60,7 @@ Troubles anxieux, troubles dépressifs, traumatismes récents ou anciens, troubl
 Liens:
 </p>
 <ul>
-  <li><a target="_blank" href="https://www.youtube.com/watch?v=Mipl5l8WZP4">L'ICV expliqué par Joanna Smith et Catherine Clément</a></li>
-  <li><a target="_blank" href="http://aficv.com/wp-content/uploads/2018/05/brochure-icv.pdf">Thérapie ICV (brochure aficv)</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/watch?v=Mipl5l8WZP4">L'ICV expliqué par Joanna Smith et Catherine Clément <i class="fa-solid fa-square-up-right"></i></a></li>
+  <li><a target="_blank" href="http://aficv.com/wp-content/uploads/2018/05/brochure-icv.pdf">Thérapie ICV (brochure aficv) <i class="fa-solid fa-square-up-right"></i></a></li>
 </ul>
 </div>

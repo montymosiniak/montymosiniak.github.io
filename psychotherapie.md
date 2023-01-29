@@ -6,7 +6,7 @@ layout: page
 </div>
 <div  class="container-article">
 <div> 
-  <h3 style="color:black;text-align: left">La psychothérapie d’orientation psychanalytique</h3>
+  <h3 style="color:black;text-align: left">La psychothérapie d’orientation analytique</h3>
   <br />
 </div>
 
