@@ -16,6 +16,10 @@ Un enfant n’a pas toujours les mêmes moyens d’expression verbale qu’un ad
 Ce sont aussi parfois les symptômes qui viennent dire quelque chose du vécu intime de l’enfant.
 </p>
 <p>
+L’adolescence constitue une étape riche et sensible du développement: les réaménagements psychiques, pubertaires, pulsionnels, ou encore relationnels au sein de la famille, en font une période de vulnérabilité mais aussi de créativité.
+L’accompagnement et le soutien psychologique permettent à l’adolescent de déposer sa souffrance, de mettre en mot ses éprouvés, et d’apaiser ses conflits intérieurs.
+</p>
+<p>
 En fonction de l’âge de l’enfant ou de l’adolescent, de son développement psycho-affectif, et de la problématique à l’œuvre, j’utilise différents vecteurs d’expression accompagnant le langage et la mise en mots: le dessin, le conte thérapeutique, le jeu projectif, l’écriture partagée, entre autres.
 </p>
 <p>
@@ -35,10 +39,6 @@ Le suivi avec l’enfant n’empêche pas d’inscrire ce travail dans le lien a
 </p>
 <p>
 Des points avec les parents peuvent être ainsi réalisés par téléphone et/ou en entretien.
-</p>
-<p>
-L’adolescence constitue une étape riche et sensible du développement: les réaménagements psychiques, pubertaires, pulsionnels, ou encore relationnels au sein de la famille, en font une période de vulnérabilité mais aussi de créativité.
-L’accompagnement et le soutien psychologique permettent à l’adolescent de déposer sa souffrance, de mettre en mot ses éprouvés, et d’apaiser ses conflits intérieurs.
 </p>
 
 </div>
