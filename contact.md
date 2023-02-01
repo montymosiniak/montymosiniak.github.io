@@ -13,7 +13,7 @@ layout: page
   <b>Honoraires:</b>
 </p>
 <ul>
-  <li>Séances individuelles. Enfant- Adolescents-Adultes : 60 euros - 1h</li>
+  <li>Séances individuelles. Enfant- Adolescents-Adultes : 60 euros - 50min / 1h</li>
   <li>Séances thérapie ICV. 70 euros – 1h ou 1h30</li>
 </ul>
 <p>
@@ -29,7 +29,7 @@ layout: page
   <b>Coordonnées:</b>
 </p>
 <p>
-  <i class="fas fa-envelope me-3"></i> <a href="https://goo.gl/maps/aZJ84ji8Wbe46cBb8" target="_blank">2 Av. de la Butte aux Cailles, 64600 Anglet</a><br>
+  <i class="fas fa-envelope me-3"></i> <a href="https://goo.gl/maps/aZJ84ji8Wbe46cBb8" target="_blank">2 Av. de la Butte aux Cailles, bât. Pasaia, entrée A, 64600 Anglet</a><br>
   <i class="fas fa-phone me-3"></i> <a href="tel:0782100783">07 82 10 07 83</a><br>
   <i class="fas fa-at me-3"></i> <a href="mailto:nadia.pinard@yahoo.fr">nadia.pinard@yahoo.fr</a>
 </p>

@@ -12,7 +12,7 @@ layout: page
 
 
 <p>
-Depuis 2013, j’exerce sur un espace municipal dédié à l’accompagnement des familles et de la parentalité:
+Jai exercé peandant 9 ans sur un espace municipal dédié à l’accompagnement des familles et de la parentalité:
 </p>
 <ul>
   <li>Consultations enfants, adolescents, parents</li>

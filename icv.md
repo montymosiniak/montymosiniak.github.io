@@ -6,7 +6,7 @@ layout: page
 </div>
 <div  class="container-article">
 <div> 
-  <h3 style="color:black;text-align: left">Thérapeute ICV</h3>
+  <h3 style="color:black;text-align: left">La thérapie ICV</h3>
   <br />
 </div>
 
